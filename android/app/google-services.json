@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "189679549859",
+    "project_id": "jobaaty-1676196901464",
+    "storage_bucket": "jobaaty-1676196901464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189679549859:android:9f5e265e031b257b0b2e16",
+        "android_client_info": {
+          "package_name": "app.jobaaty.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189679549859-g4l0ggfl7pkdctpp2p4kf3r81lu3tti6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBujnn8aHZKCjO4g7AVMLBEGHMBK7l7CNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189679549859-g4l0ggfl7pkdctpp2p4kf3r81lu3tti6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189679549859:android:2e977d6409b353a30b2e16",
+        "android_client_info": {
+          "package_name": "com.jobaaty.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189679549859-g4l0ggfl7pkdctpp2p4kf3r81lu3tti6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBujnn8aHZKCjO4g7AVMLBEGHMBK7l7CNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189679549859-g4l0ggfl7pkdctpp2p4kf3r81lu3tti6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
